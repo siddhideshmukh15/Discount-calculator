@@ -20,4 +20,4 @@ A simple Python program that calculates the discount amount and final price of a
 - `round()` function
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
